@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBwNngydmc5bWdqcGxvZjhtbWIwend2aHlyenZpem54MGk5Nzg5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
 
 ---

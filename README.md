@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding" width="400"/>
 </p>
 
 ---
@@ -23,14 +23,14 @@ I specialize in building **Flutter applications, AI/ML systems, and full-stack w
 <h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
-<a href="https://github.com/anshul4510/ecomind-ai-waste-classifier">
-  <img src="https://img.shields.io/badge/EcoMind%20AI%20Waste%20Classifier-92%25%20Accuracy-green?style=for-the-badge&logo=python" />
-</a>
 <a href="https://github.com/anshul4510/customer-churn-prediction">
   <img src="https://img.shields.io/badge/Customer%20Churn%20Prediction-86%25%20Accuracy-blue?style=for-the-badge&logo=tensorflow" />
 </a>
 <a href="https://github.com/anshul4510/phishing-detection-ml">
   <img src="https://img.shields.io/badge/Phishing%20Detection-98%25%20Accuracy-red?style=for-the-badge&logo=scikitlearn" />
+</a>
+<a href="https://github.com/anshul4510/Algerian-ForestFire-Predictor">
+  <img src="https://img.shields.io/badge/Forest%20Fire%20Predictor-ML%20Model-green?style=for-the-badge&logo=python" />
 </a>
 <a href="https://github.com/anshul4510/React-Admin-Dashboard">
   <img src="https://img.shields.io/badge/React%20Admin%20Dashboard-Full%20Stack-purple?style=for-the-badge&logo=react" />
@@ -111,8 +111,6 @@ I specialize in building **Flutter applications, AI/ML systems, and full-stack w
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/BentoML-4F4F4F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 <p align="center">
@@ -126,7 +124,6 @@ I specialize in building **Flutter applications, AI/ML systems, and full-stack w
 <b>Version Control & Tools</b><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logoColor=white" />
 </p>
 
 ---

@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me  
 
-Hi there! I'm **Anshul Patel**, a passionate Computer Science student at VIT Vellore with a CGPA of 9.42.  
+Hi there! I'm **Anshul Patel**, a passionate Computer Science student at VIT Vellore with a CGPA of 9.37.  
 I specialize in building **Flutter applications, AI/ML systems, and full-stack web solutions** that solve real-world problems.  
 
 🔭 Currently working on **AI-powered waste classification systems** and **customer churn prediction models**.  
@@ -23,24 +23,27 @@ I specialize in building **Flutter applications, AI/ML systems, and full-stack w
 <h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
-<a href="https://github.com/anshul4510/customer-churn-prediction">
-  <img src="https://img.shields.io/badge/Customer%20Churn%20Prediction-86%25%20Accuracy-blue?style=for-the-badge&logo=tensorflow" />
+
+<a href="https://github.com/anshul4510/RecruitIQ">
+  <img src="https://img.shields.io/badge/RecruitIQ-AI%20Resume%20Screening%20System-black?style=for-the-badge&logo=openai" />
 </a>
-<a href="https://github.com/anshul4510/phishing-detection-ml">
-  <img src="https://img.shields.io/badge/Phishing%20Detection-98%25%20Accuracy-red?style=for-the-badge&logo=scikitlearn" />
+
+<a href="https://github.com/anshul4510/Thinkroom">
+  <img src="https://img.shields.io/badge/Thinkroom-Collaborative%20Idea%20Platform-ff9800?style=for-the-badge&logo=notion" />
 </a>
-<a href="https://github.com/anshul4510/Algerian-ForestFire-Predictor">
-  <img src="https://img.shields.io/badge/Forest%20Fire%20Predictor-ML%20Model-green?style=for-the-badge&logo=python" />
-</a>
-<a href="https://github.com/anshul4510/React-Admin-Dashboard">
-  <img src="https://img.shields.io/badge/React%20Admin%20Dashboard-Full%20Stack-purple?style=for-the-badge&logo=react" />
-</a>
+
 <a href="https://github.com/anshul4510/Barca-Store-App">
-  <img src="https://img.shields.io/badge/Barca%20Store%20App-Flutter-02569B?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/E--Commerce%20App-Flutter%20+%20State%20Mgmt-02569B?style=for-the-badge&logo=flutter" />
 </a>
-<a href="https://github.com/anshul4510/Netflix-clone">
-  <img src="https://img.shields.io/badge/Netflix%20Clone-ReactJS-E50914?style=for-the-badge&logo=netflix" />
+
+<a href="https://github.com/anshul4510/phishing-detection-ml">
+  <img src="https://img.shields.io/badge/Phishing%20Detection-Cybersecurity%20ML-red?style=for-the-badge&logo=scikitlearn" />
 </a>
+
+<a href="https://github.com/anshul4510/React-Admin-Dashboard">
+  <img src="https://img.shields.io/badge/Data%20Analytics%20Dashboard-Real--Time%20Insights-purple?style=for-the-badge&logo=react" />
+</a>
+
 </p>
 
 ---
